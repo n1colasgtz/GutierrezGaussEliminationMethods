@@ -26,8 +26,6 @@
 
 
 <hr>
-  <h4>All mathematics is homebrew by definition.</h1>
-
   <h5>Thanks to:</p>
   <div>
     <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0b628579-e76d-470d-8dc0-67e9f08ed7d8" />
