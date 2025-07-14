@@ -16,7 +16,7 @@
   <h1>Gutiérrez-Gauss Methods:</h1>
   <h3>"Inverted" Gutiérrez Method Example:</h3>
   <div class="matrix-container">
-    <img width="926" height="252" alt="image" src="https://github.com/user-attachments/assets/19d86bdc-e5b8-4660-9486-b8045dd894f1" />
+    <img width="976" height="289" alt="image" src="https://github.com/user-attachments/assets/4610c55a-3309-49b0-a762-cdc86af917c6" />
   </div>
 
   <h3>"180° Rotation" Gutiérrez Method Example:</h3>
